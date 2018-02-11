@@ -4,5 +4,5 @@ https://github.com/blog/2495-multiple-issue-and-pull-request-templates
 
 # Create an Issue
 
-- [Bug report](https://github.com/serima/multiple-issue-and-pull-request-templates/issues/new?template=bug.md)
-- [Feature Request](https://github.com/serima/multiple-issue-and-pull-request-templates/issues/new?template=feature.md)
+- [Bug report](https://github.com/serima/multiple-issue-and-pull-request-templates/issues/new?template=bug.md&title=Bug%20Report)
+- [Feature Request](https://github.com/serima/multiple-issue-and-pull-request-templates/issues/new?template=feature.md&title=Feature%20Request)
